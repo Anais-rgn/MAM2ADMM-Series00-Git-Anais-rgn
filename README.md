@@ -14,3 +14,9 @@ Une belle Photo : ![https://images.pexels.com/photos/33249105/pexels-photo-33249
 Je souhaite apprendre à utiliser Github, Python, R  pour pouvoir analyser et travailler sur les les données sur lesquels je vais travailler dans le cadre de mon stage de Master 2.  
 Gitbuh me perttra de pouvoir collaborer plus facilement sur un projet avec d'autres personnes, me permettre de suivire l'évolution de mon travail tout en enregistrant toutes les étapes. Le but sera de partager des résultats claires et de suivre l'évolution de mon travail avec mon maitre de stage. 
  
+ ## Une image locale
+
+## Une image locale
+
+![Mon image locale](Images/mon_image.png)
+
