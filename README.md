@@ -20,3 +20,9 @@ Gitbuh me perttra de pouvoir collaborer plus facilement sur un projet avec d'aut
 
 ![Mon image locale](Images/mon_image.png)
 
+
+## Ce que j'ai appris
+
+- Pendant ce travail, j'ai apréhendé le concept de rangement des branches. Avce la possibilité de les enregistrer localement. J'ai appris également à utiliser GitHubDesk et VsCode. J'ai appris à ajouter des images d'internet et locale. cela me permet de suivre l'évolution d'un travail et notament avec mon tuteur de stage. J'ai compris l'importance  des messages claires pour suivre l'historique de notre travail. 
+
+En conclusion j'ai plus de 2h30 à faire ce travail 
